@@ -1,0 +1,8 @@
+# Modern Robotics
+
+- **Course 1, Foundations of Robot Motion** (Chapters 2 and 3): Robot configuration spaces (C-spaces) and representation of spatial motions and forces.
+- **Course 2, Robot Kinematics** (Chapters 4-7): Forward kinematics (e.g., calculating the position and orientation of a robot's end-effector based on the joint positions), velocity kinematics and statics relating joint velocities and forces/torques to end-effector velocities and forces, inverse kinematics (e.g., calculating joint positions that achieve a desired end-effector configuration), and kinematics of robots with closed chains.
+- **Course 3, Robot Dynamics** (Chapters 8 and 9): Forward dynamics (calculating the robot's acceleration given its configuration, velocity, and joint forces/torques), inverse dynamics (calculating the required joint forces/torques given the robot's configuration, velocity, and acceleration), and planning robot trajectories subject to dynamic constraints.
+- **Course 4, Robot Motion Planning and Control** (Chapters 10 and 11): Motion planning in the presence of obstacles and feedback control for trajectory tracking, force control, and hybrid motion-force control.
+- **Course 5, Robot Manipulation and Wheeled Mobile Robots** (Chapters 12 and 13): Advanced topics such as analysis and planning for robot manipulation, and modeling, motion planning, and control for wheeled mobile robots and mobile manipulators (wheeled robots equipped with robot arms).
+- **Course 6, Capstone Project**: The capstone project is to write the software for motion planning and feedback control of a simulated mobile manipulator. This project integrates many of the lessons of the specialization.
